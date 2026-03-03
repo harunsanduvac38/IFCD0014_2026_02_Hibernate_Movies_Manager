@@ -79,7 +79,14 @@ public class Pelicula {
     }
 
 
-
-
-
+    @Override
+    public String toString() {
+        return "Pelicula{" +
+                "id=" + id +
+                ", titulo='" + titulo + '\'' +
+                ", director='" + director + '\'' +
+                ", anyo=" + anyo +
+                ", genero=" + genero +
+                '}';
+    }
 }

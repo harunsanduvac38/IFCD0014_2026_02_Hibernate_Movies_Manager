@@ -8,6 +8,6 @@ public class GeneroDAO extends SessionManager{
         session.beginTransaction();
         session.persist(genero);
         session.getTransaction().commit();
-        System.out.println("¡Intérprete creado/a con éxito!");
+        System.out.println("¡Genero creado/a con éxito!");
     }
 }

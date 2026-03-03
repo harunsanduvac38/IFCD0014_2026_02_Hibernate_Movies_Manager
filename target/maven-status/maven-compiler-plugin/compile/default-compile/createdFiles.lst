@@ -1,0 +1,7 @@
+com\cursospring\moviesmanager\model\Pelicula.class
+com\cursospring\moviesmanager\persistence\SessionManager.class
+com\cursospring\moviesmanager\persistence\GeneroDAO.class
+com\cursospring\moviesmanager\persistence\PeliculaDAO.class
+com\cursospring\moviesmanager\App.class
+com\cursospring\moviesmanager\persistence\HibernateUtil.class
+com\cursospring\moviesmanager\model\Genero.class
